@@ -1,0 +1,5 @@
+{
+  "name": "OptionFlow - Strategic Trading",
+  "description": "A specialized options trading platform for covered calls and cash-secured puts with synchronized stock and option charting.",
+  "requestFramePermissions": []
+}
